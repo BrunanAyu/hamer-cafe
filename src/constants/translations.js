@@ -1,7 +1,7 @@
 const translations = {
   en: {
     // Navbar
-    nav_brand: "Hamar Café",
+    nav_brand: "Hamer Café",
     nav_home: "Home",
     nav_menu: "Menu",
     nav_about: "About",
@@ -20,7 +20,7 @@ const translations = {
 
     // Menu Section
     menu_section_eyebrow: "Our Specialties",
-    menu_section_headline: "A Taste of Hamar",
+    menu_section_headline: "A Taste of Hamer",
     menu_section_subtext:
       "From traditional Ethiopian macchiato to custom celebration cakes — made with love, served with pride.",
 
@@ -58,7 +58,7 @@ const translations = {
     about_eyebrow: "Our Story",
     about_headline: "Born in Woldia,\nBuilt on Passion",
     about_body_1:
-      "Hamar Café began as a dream: to bring world-class baking and specialty coffee to the heart of Woldia. Every cake we craft, every cup we pour, carries that original ambition.",
+      "Hamer Café began as a dream: to bring world-class baking and specialty coffee to the heart of Woldia. Every cake we craft, every cup we pour, carries that original ambition.",
     about_body_2:
       "From intimate birthday cakes to stacked celebration tiers, our bakers pour artistry into every creation. We're always open — because good coffee and great cake shouldn't have a closing time.",
     about_stat_1_value: "Always",
@@ -70,7 +70,7 @@ const translations = {
 
     // Contact & Footer
     contact_section_eyebrow: "Visit Us",
-    contact_section_headline: "Find Hamar Café",
+    contact_section_headline: "Find Hamer Café",
     contact_address_label: "Address",
     contact_address_value: "Woldia, North Wollo, Ethiopia",
     contact_phone_label: "Phone",
@@ -80,13 +80,13 @@ const translations = {
     contact_map_placeholder: "Interactive Map — Woldia, Ethiopia",
     contact_social_label: "Follow Us",
 
-    footer_copy: "© 2024 Hamar Café. All rights reserved.",
+    footer_copy: "© 2024 Hamer Café. All rights reserved.",
     footer_tagline: "Woldia's Home of Handcrafted Coffee & Cakes.",
   },
 
   am: {
     // Navbar
-    nav_brand: "ሃማር ካፌ",
+    nav_brand: "ሃመር ካፌ", //correct all word
     nav_home: "መነሻ",
     nav_menu: "ማውጫ", // 'ማውጫ' or 'ምናሌ' both work, 'ማውጫ' sounds highly standard for food items
     nav_about: "ስለ እኛ",
@@ -105,7 +105,7 @@ const translations = {
 
     // Menu Section
     menu_section_eyebrow: "የእኛ ልዩ ዝግጅቶች",
-    menu_section_headline: "የሃማር ልዩ ጣዕም",
+    menu_section_headline: "የሃመር ልዩ ጣዕም",
     menu_section_subtext:
       "ከባህላዊ የሀገር ውስጥ ማኪያቶ እስከ ልዩ የክብረ በዓል ኬኮች — በፍቅር ተዘጋጅቶ በክብር የሚቀርብ።",
 
@@ -143,11 +143,11 @@ const translations = {
     about_eyebrow: "የእኛ ጉዞ",
     about_headline: "በወልዲያ ተወልዶ\nበፍቅርና በክህሎት ያደገ",
     about_body_1:
-      "ሃማር ካፌ ከትልቅ ህልም ተነሳ፡ አለም አቀፍ ደረጃ ያለውን የዳቦ መጋገሪያ ጥበብ እና ልዩ የቡና ጣዕም ወደ ወልዲያ እምብርት ማምጣት። እያንዳንዱ የምንጋግረው ኬክ እና የምንቀዳው ሲኒ ያንን የመጀመሪያ ህልማችንን ያንጸባርቃል።",
+      "ሃመር ካፌ ከትልቅ ህልም ተነሳ፡ አለም አቀፍ ደረጃ ያለውን የዳቦ መጋገሪያ ጥበብ እና ልዩ የቡና ጣዕም ወደ ወልዲያ እምብርት ማምጣት። እያንዳንዱ የምንጋግረው ኬክ እና የምንቀዳው ሲኒ ያንን የመጀመሪያ ህልማችንን ያንጸባርቃል።",
     about_body_2:
       "ከቀላል የልደት በዓላት ጀምሮ እስከ ረዣዥም የሰርግ ኬኮች ድረስ ባለሙያዎቻችን ጥበባቸውን ያፈሱበታል። እኛ ሁልጊዜ ክፍት ነን — ምክንያቱም ጥሩ ቡና እና ጣፋጭ ኬክ የሰዓት ገደብ ሊኖራቸው አይገባም።",
     about_stat_1_value: "ሁልጊዜ",
-    about_stat_1_label: "ክፍት",
+    about_stat_1_label: "ክፍት", 
     about_stat_2_value: "100%",
     about_stat_2_label: "በእጅ የተሰራ",
     about_stat_3_value: "∞",
@@ -155,7 +155,7 @@ const translations = {
 
     // Contact & Footer
     contact_section_eyebrow: "ይጎብኙን",
-    contact_section_headline: "ሃማር ካፌን ያግኙ",
+    contact_section_headline: "ሃመር ካፌን ያግኙ",
     contact_address_label: "አድራሻ",
     contact_address_value: "ወልዲያ፣ ሰሜን ወሎ፣ ኢትዮጵያ",
     contact_phone_label: "ስልክ",
@@ -165,7 +165,7 @@ const translations = {
     contact_map_placeholder: "የመፈለጊያ ካርታ — ወልዲያ፣ ኢትዮጵያ",
     contact_social_label: "ይከተሉን",
 
-    footer_copy: "© 2026 ሃማር ካፌ። መብቱ በሕግ የተጠበቀ ነው።", // Updated year context
+    footer_copy: "© 2026 ሃመር ካፌ። መብቱ በሕግ የተጠበቀ ነው።", // Updated year context
     footer_tagline: "የወልዲያ የምርጥ ቡና እና አስደናቂ ኬኮች መገኛ።",
   },
 };
